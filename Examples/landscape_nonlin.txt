@@ -1,0 +1,24 @@
+'C:\Documents and Settings\Alexander Schreyer\My Documents\Programming\Delphi\Alex_Stuff\GA_optim\Excel_Optim\Release_1.2\Examples\landscape_nonlin.xls'
+    0
+               Func1         1        13         2       0.5
+         5
+                   X         6         4         0        10
+                   Y         7         4         0        10
+                            28         2        10        10
+                            29         2        10        10
+                            30         2        10        10
+TRUE
+TRUE
+FALSE
+FALSE
+FALSE
+         5
+                            31         2         0        10
+                            32         2         0        10
+                            33         2         0        10
+                            34         2         0        10
+                            35         2         0        10
+        16       0.9       0.1       0.1         0
+      1e-5         0       100         2        10
+         6
+    0      1e12

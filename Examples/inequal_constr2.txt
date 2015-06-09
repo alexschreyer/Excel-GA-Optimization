@@ -1,0 +1,24 @@
+'C:\Documents and Settings\Alexander Schreyer\My Documents\Programming\Delphi\Alex_Stuff\GA_optim\Excel_Optim\Release_1.2\Examples\inequal_constr2.xls'
+    0
+               Func1         0        10         2          
+         5
+                   X         6         2         0        10
+                   Y         7         2         0        10
+                            18         2        10        10
+                            19         2        10        10
+                            20         2        10        10
+TRUE
+TRUE
+FALSE
+FALSE
+FALSE
+         5
+                Con1        14         2         0         0
+                Con2        15         2         0         0
+                            21         2         0        10
+                            22         2         0        10
+                            23         2         0        10
+        16       0.9       0.1       0.1         0
+      1e-6         0       100         0        10
+         6
+    0      1e12
